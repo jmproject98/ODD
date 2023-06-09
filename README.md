@@ -169,23 +169,18 @@
 제13조(영상정보처리기기 운영·관리에 관한 사항)
 ① < HayanNarae >은(는) 아래와 같이 영상정보처리기기를 설치·운영하고 있습니다.
 
-1.영상정보처리기기 설치근거·목적 : < HayanNarae >의
+1.영상정보처리기기 설치근거·목적 : 카메라는 앱 내부 촬영 기능을 위한 것으로, 영상과 관련된 정보를 수집하지 않음
 
-2.설치 대수, 설치 위치, 촬영 범위 :
-설치대수 : 대
-설치위치 :
-촬영범위 :
-3.관리책임자, 담당부서 및 영상정보에 대한 접근권한자 :
+2.관리책임자, 담당부서 및 영상정보에 대한 접근권한자 :
 
-4.영상정보 촬영시간, 보관기간, 보관장소, 처리방법
-촬영시간 : 시간
-보관기간 : 촬영시부터
-보관장소 및 처리방법 :
-5.영상정보 확인 방법 및 장소 :
+3.영상정보 촬영시간, 보관기간, 보관장소, 처리방법
+보관장소 및 처리방법 : 촬영된 사진은 사용자의 기기에만 저장되며, 영상 관련 정보를 수집하지 않음.
 
-6.정보주체의 영상정보 열람등요구에 대한 조치 : 개인영상정보 열람.존재확인 청구서로 신청하여야 하며, 정보주체 자신이 촬영된 경우 또는 명백히 정보주체의 생명.신체.재산 이익을 위해 필요한 경우에 한해 열람을 허용함
+4.영상정보 확인 방법 및 장소 : 사용자의 기기에서만 저장되기 때문에 사용자의 기기에서만 확인 가능.
 
-7.영상정보처리기기 설치근거·목적 : 카메라는 앱 내부 촬영 기능을 위한 것으로, 영상과 관련된 정보를 수집하지 않음
+5.정보주체의 영상정보 열람등요구에 대한 조치 : 개인영상정보 열람.존재확인 청구서로 신청하여야 하며, 정보주체 자신이 촬영된 경우 또는 명백히 정보주체의 생명.신체.재산 이익을 위해 필요한 경우에 한해 열람을 허용함
+
+6.영상정보처리기기 설치근거·목적 : 카메라는 앱 내부 촬영 기능을 위한 것으로, 영상과 관련된 정보를 수집하지 않음
 
 
 
@@ -328,29 +323,21 @@ In case of infringement of rights or interests by the disposition or omission pe
 
 ※ For more details on administrative litigation, please refer to the website of the Central Administrative Appeals Commission (www.simpan.go.kr).
 
-Article 13 (Video Information Processing Device Operation and Management)
+Article 13 (Matters Regarding Operation and Management of Photo Information Processing Equipment)
+① <HayanNarae> installs and operates the following image information processing devices.
 
-HayanNarae installs and operates a video information processing device as follows:
+1. Basis and purpose of installation of Photo information processing device: The camera is for the internal shooting function of the app, and information related to the video is not collected.
 
-Basis and purpose of video information processing device installation: HayanNarae's
+2. Person in charge of management, department in charge, and person with access to image information:
 
-Number of installations, installation location, shooting range:
-Number of installations:
-Installation location:
-Shooting range:
+3. Photo information recording time, storage period, storage location, processing method
+Storage location and processing method: The captured photos are stored only on the user's device, and video-related information is not collected.
 
-Manager, responsible department, and access rights to video information:
+4. How and where to check Photo information: Since it is stored only on the user's device, it can only be checked on the user's device.
 
-Video information shooting time, storage period, storage location, processing method:
-Shooting time:
-Storage period: from shooting time
-Storage location and processing method:
+5. Measures against the data subject's request to view Photo information: Personal image information should be requested with a request for confirmation of existence. Allowed to view for one year
 
-How and where to check video information:
-
-Measures on information subject's request for video information viewing, etc: A personal video information viewing/existence confirmation application must be applied for, and viewing is allowed only when the information subject himself/herself is filmed or it is clearly necessary for the life, body, and property benefits of the information subject.
-
-Basis and purpose of video information processing device installation: The camera is for in-app shooting, and does not collect information related to videos.
+6. Grounds and purpose of installation of photo information processing device: The camera is for the internal shooting function of the app, and information related to the video is not collected.
   
 Article 14 (Change in Privacy Policy)
 
